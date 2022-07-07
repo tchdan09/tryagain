@@ -1,1 +1,1 @@
-practicing git
+Hi, I am practicing git today!
